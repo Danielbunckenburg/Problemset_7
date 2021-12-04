@@ -1,0 +1,6 @@
+pcgive 700
+data SP500Data_short.bn7
+>date            1  1 2304  1  1 32 SP500Data_sh 04-04-2019 13:37:37 date
+>Dlog(sp500)     1  1 2304  1  1 18496 SP500Data_sh 04-04-2019 13:37:37
+>FirstTrade      1  1 2304  1  1 36960 SP500Data_sh 04-04-2019 13:37:37
+>LastTrade       1  1 2304  1  1 55424 SP500Data_sh 04-04-2019 13:37:37
